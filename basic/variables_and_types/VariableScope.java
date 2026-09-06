@@ -1,4 +1,4 @@
-package Basic.VariablesAndTypes;
+package basic.variables_and_types;
 
 // 변수의 유효 범위 (Scope)
 public class VariableScope {

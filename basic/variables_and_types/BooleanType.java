@@ -1,4 +1,4 @@
-package Basic.VariablesAndTypes;
+package basic.variables_and_types;
 
 // boolean 타입 및 조건식
 public class BooleanType {

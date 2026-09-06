@@ -1,4 +1,4 @@
-package Basic.VariablesAndTypes;
+package basic.variables_and_types;
 
 // 변수 선언, 초기화, 값 교환 개념
 public class VariableDeclaration {

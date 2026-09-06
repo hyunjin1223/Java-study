@@ -1,4 +1,4 @@
-package Basic.VariablesAndTypes;
+package basic.variables_and_types;
 
 // 콘솔 출력 서식 (printf)
 public class ConsoleOutput {

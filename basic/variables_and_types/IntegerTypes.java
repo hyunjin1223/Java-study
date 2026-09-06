@@ -1,4 +1,4 @@
-package Basic.VariablesAndTypes;
+package basic.variables_and_types;
 
 // 정수 리터럴 진수 표현 및 타입별 특징
 public class IntegerTypes {

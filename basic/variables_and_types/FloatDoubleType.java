@@ -1,4 +1,4 @@
-package Basic.VariablesAndTypes;
+package basic.variables_and_types;
 
 // 실수 타입 (float, double) 및 정밀도
 public class FloatDoubleType {

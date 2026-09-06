@@ -1,4 +1,4 @@
-package Basic.VariablesAndTypes;
+package basic.variables_and_types;
 
 // 자바 타입 변환 (자동/강제 변환, 연산 시 변환, 문자열 변환)
 public class TypeConversion {

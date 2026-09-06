@@ -1,4 +1,4 @@
-package Basic.VariablesAndTypes;
+package basic.variables_and_types;
 
 // String 타입, 이스케이프 문자 및 텍스트 블록 (Java 13+)
 public class StringType {
