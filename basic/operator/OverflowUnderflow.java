@@ -1,4 +1,4 @@
-package Basic.Operator;
+package basic.operator;
 
 // 정수 타입의 오버플로우(Overflow)와 언더플로우(Underflow)
 public class OverflowUnderflow {

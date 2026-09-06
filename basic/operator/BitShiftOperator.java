@@ -1,4 +1,4 @@
-package Basic.Operator;
+package basic.operator;
 
 // 비트 이동 연산자(<<, >>, >>>) 및 바이트 분리
 public class BitShiftOperator {

@@ -1,4 +1,4 @@
-package Basic.Operator;
+package basic.operator;
 
 // 증감 연산자 (++ / -- 전위, 후위)
 public class IncDecOperator {

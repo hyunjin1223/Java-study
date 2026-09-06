@@ -1,4 +1,4 @@
-package Basic.Operator;
+package basic.operator;
 
 // 산술 연산자 (+, -, *, /, %) 및 자동 형변환
 public class ArithmeticOperator {

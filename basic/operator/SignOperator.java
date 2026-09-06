@@ -1,4 +1,4 @@
-package Basic.Operator;
+package basic.operator;
 
 // 부호 연산자 (+, -) 및 타입 변환 주의점
 public class SignOperator {

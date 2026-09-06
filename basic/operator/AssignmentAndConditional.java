@@ -1,4 +1,4 @@
-package Basic.Operator;
+package basic.operator;
 
 // 복합 대입 연산자 및 삼항(조건) 연산자
 public class AssignmentAndConditional {
