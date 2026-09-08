@@ -1,4 +1,4 @@
-package oop.reference;
+package oop.reference.array;
 
 // 배열 복사
 // - 배열은 생성한 뒤 크기를 바꿀 수 없음

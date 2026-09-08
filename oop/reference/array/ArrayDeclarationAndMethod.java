@@ -1,4 +1,4 @@
-package oop.reference;
+package oop.reference.array;
 
 // 배열(Array) 생성 2 - 선언과 대입 분리 및 메소드 인자 전달
 // - 변수를 미리 선언한 후 나중에 값 목록을 대입할 때는 'new 타입[]' 생략 불가

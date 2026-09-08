@@ -1,4 +1,4 @@
-package oop.reference;
+package oop.reference.array;
 
 // 참조 타입 배열
 // - 배열에 객체 자체가 아니라 객체를 가리키는 참조값이 저장됨

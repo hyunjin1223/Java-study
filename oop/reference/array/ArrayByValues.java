@@ -1,4 +1,4 @@
-package oop.reference;
+package oop.reference.array;
 
 // 배열(Array) 생성 1 - 값 목록으로 생성
 // - 연속된 메모리 공간에 같은 타입의 데이터들을 나열하는 참조 타입

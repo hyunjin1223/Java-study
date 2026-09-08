@@ -1,4 +1,4 @@
-package oop.reference;
+package oop.reference.array;
 
 // 2차원 배열
 // - 행과 열로 이루어진 배열

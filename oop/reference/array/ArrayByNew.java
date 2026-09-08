@@ -1,4 +1,4 @@
-package oop.reference;
+package oop.reference.array;
 
 // 배열(Array) 생성 3 - new 연산자로 길이가 지정된 배열 생성
 // - 지정한 길이만큼 힙(Heap) 영역에 공간을 확보 (new 타입[길이])
