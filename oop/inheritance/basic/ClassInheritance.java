@@ -32,7 +32,7 @@ public class ClassInheritance extends Vehicle {
 
         // 부모 클래스에서 물려받은 메소드
         vehicle.move();
-        // 자동차이가 이동합니다.
+        // 자동차가 이동합니다.
 
         // 자식 클래스에서 만든 메소드
         vehicle.printInfo();
