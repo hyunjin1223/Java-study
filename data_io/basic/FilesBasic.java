@@ -32,10 +32,7 @@ public class FilesBasic {
             );
 
             // 파일 전체 내용을 문자열로 읽기
-            String content = Files.readString(
-                    source,
-                    StandardCharsets.UTF_8
-            );
+            String content = Files.readString(source, StandardCharsets.UTF_8);
 
             System.out.println("[파일 내용]");
             System.out.println(content);
@@ -49,10 +46,7 @@ public class FilesBasic {
             System.out.println("복사본 존재: " + Files.exists(copy));
 
             // 파일 내용을 줄 단위로 읽기
-            List<String> lines = Files.readAllLines(
-                    source,
-                    StandardCharsets.UTF_8
-            );
+            List<String> lines = Files.readAllLines(source, StandardCharsets.UTF_8);
 
             System.out.println();
             System.out.println("[줄 단위 읽기]");
